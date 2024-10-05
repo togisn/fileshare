@@ -7,7 +7,7 @@
         "name": "Pondokgede"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9456, -6.2857],
@@ -24,7 +24,7 @@
         "name": "Jatisampurna"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9509, -6.3592],
@@ -41,7 +41,7 @@
         "name": "Pondokmelati"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9617, -6.3144],
@@ -58,7 +58,7 @@
         "name": "Jatiasih"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9595, -6.3282],
@@ -75,7 +75,7 @@
         "name": "Bantargebang"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [107.0157, -6.3245],
@@ -92,7 +92,7 @@
         "name": "Mustikajaya"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [107.0487, -6.3272],
@@ -109,7 +109,7 @@
         "name": "Bekasi Timur"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [107.0086, -6.2467],
@@ -126,7 +126,7 @@
         "name": "Rawalumbu"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9987, -6.2777],
@@ -143,7 +143,7 @@
         "name": "Bekasi Selatan"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9749, -6.2494],
@@ -160,7 +160,7 @@
         "name": "Bekasi Barat"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9641, -6.2362],
@@ -177,7 +177,7 @@
         "name": "Medansatria"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9508, -6.2049],
@@ -194,7 +194,7 @@
         "name": "Bekasi Utara"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [106.9586, -6.2026],
