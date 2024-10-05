@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekasi",
+        "country": "Indonesia",
+        "region": "West Java"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.973763, -6.238269], [106.973763, -6.308165], [107.031888, -6.308165],
+            [107.031888, -6.238269], [106.973763, -6.238269]
+          ]
+        ]
+      }
+    }
+  ]
+}
