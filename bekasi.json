@@ -4,16 +4,203 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bekasi",
-        "country": "Indonesia",
-        "region": "West Java"
+        "name": "Pondokgede"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
-            [106.973763, -6.238269], [106.973763, -6.308165], [107.031888, -6.308165],
-            [107.031888, -6.238269], [106.973763, -6.238269]
+            [106.9456, -6.2857],
+            [106.9480, -6.2881],
+            [106.9501, -6.2905],
+            [106.9456, -6.2857]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jatisampurna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9509, -6.3592],
+            [106.9550, -6.3600],
+            [106.9600, -6.3625],
+            [106.9509, -6.3592]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pondokmelati"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9617, -6.3144],
+            [106.9650, -6.3150],
+            [106.9700, -6.3175],
+            [106.9617, -6.3144]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jatiasih"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9595, -6.3282],
+            [106.9625, -6.3305],
+            [106.9650, -6.3330],
+            [106.9595, -6.3282]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bantargebang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.0157, -6.3245],
+            [107.0187, -6.3270],
+            [107.0200, -6.3295],
+            [107.0157, -6.3245]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mustikajaya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.0487, -6.3272],
+            [107.0500, -6.3300],
+            [107.0530, -6.3325],
+            [107.0487, -6.3272]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekasi Timur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.0086, -6.2467],
+            [107.0120, -6.2490],
+            [107.0150, -6.2520],
+            [107.0086, -6.2467]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawalumbu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9987, -6.2777],
+            [107.0020, -6.2800],
+            [107.0050, -6.2825],
+            [106.9987, -6.2777]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekasi Selatan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9749, -6.2494],
+            [106.9770, -6.2510],
+            [106.9800, -6.2530],
+            [106.9749, -6.2494]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekasi Barat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9641, -6.2362],
+            [106.9670, -6.2385],
+            [106.9700, -6.2400],
+            [106.9641, -6.2362]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medansatria"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9508, -6.2049],
+            [106.9530, -6.2075],
+            [106.9560, -6.2100],
+            [106.9508, -6.2049]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bekasi Utara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.9586, -6.2026],
+            [106.9610, -6.2050],
+            [106.9650, -6.2075],
+            [106.9586, -6.2026]
           ]
         ]
       }
