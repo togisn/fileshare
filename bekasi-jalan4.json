@@ -7,7 +7,7 @@
           "name": "Jalan Raya Pondok Kopi"
         },
         "geometry": {
-          "type": "LineString",
+          "type": "Polygon",
           "coordinates": [
             [106.9426808,-6.2245887],
             [106.9427127,-6.2245835],
