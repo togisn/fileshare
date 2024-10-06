@@ -7,10 +7,7 @@
       {
         "type": "Feature",
         "properties": {
-          "@id": "way1319801769",
-          "highway": "primary",
-          "name": "Jalan Raya Pondok Kopi",
-          "oneway": "yes"
+          "name": "Jalan Raya Pondok Kopi"
         },
         "geometry": {
           "type": "LineString",
@@ -28,8 +25,7 @@
               -6.224583
             ]
           ]
-        },
-        "id": "way1319801769"
+        }
       }
     ]
   }
