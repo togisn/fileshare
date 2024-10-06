@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2024-10-06T01:29:48Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "highway": "primary",
+          "name": "Jalan Raya Pondok Kopi",
+          "oneway": "yes"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              106.9426808,
+              -6.2245887
+            ],
+            [
+              106.9427127,
+              -6.2245835
+            ],
+            [
+              106.9427258,
+              -6.224583
+            ]
+          ]
+        }
+      }
+    ]
+  }
